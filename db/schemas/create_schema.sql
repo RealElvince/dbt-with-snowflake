@@ -1,0 +1,1 @@
+CREATE OR REPLACE SCHEMA dbt_cloud.dbt_schema;
